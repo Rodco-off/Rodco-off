@@ -15,7 +15,7 @@ I'm a 16-year-old developer with a passion for backend development and competiti
 ## 🏅 Achievements
 -  Высшая проба (sports programming) (Level 1) — Finalist
 -  Вузовская-академическая олимпиада школьников (sports programming) (Level 1) — Finalist
--  Изумруд (mathematics) (level 3) - Finalist
+-  Изумруд (mathematics) (Level 3) - Finalist
 -  УРКОП — Two-time Finalist
 -  СберБанк проектный практикум — Participant
 -  PROD олимпиада — Participant
