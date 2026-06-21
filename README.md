@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm Rodion 👋</h1>
 
 ## 🚀 About Me
-I'm a 16-year-old developer with a passion for backend development and competitive programming. I started coding in 2024 and have already reached the finals of several Level 1 Olympiads.
+I'm an 18-year-old developer with **2 years of hands-on experience** (since 2024).  
+What started as a curiosity at 16 has grown into a serious passion for **backend development** and **competitive programming**.
 
 ## 🛠️ Tech Stack
 | **Languages** | Python, C++, C, SQL |
